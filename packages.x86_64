@@ -141,3 +141,6 @@ dolphin
 spectacle
 konsole
 rz608-fix-git
+
+qemu-guest-agent
+open-vm-tools
